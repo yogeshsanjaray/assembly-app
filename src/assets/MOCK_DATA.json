@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 11,
+      "name": "Head Light",
+      "url": "https://5.imimg.com/data5/AF/BO/MY-65671074/visor-cb-shine-type-500x500.jpg",
+      "complete":false
+    },
+    {
+      "id": 12,
+      "name": "Rear Shock Absorber",
+      "url": "https://ms-spares.in/wp-content/uploads/2020/01/shock-absorber-shine-600x374.jpg",
+      "complete":false
+    },
+    {
+      "id": 13,
+      "name": "Tyre Rim",
+      "url": "https://rukminim1.flixcart.com/image/416/416/bike-tyre-rim/z/u/e/274585-fly-lion-original-imaehp26stdjegkt.jpeg?q=70",
+      "complete":false
+    },
+    {
+      "id": 14,
+      "name": "Head Lamp",
+      "url": "https://ms-spares.in/wp-content/uploads/2021/03/head-light-shine-600x600.jpg",
+      "complete":false
+    },
+    {
+      "id": 15,
+      "name": "Chain Shocket",
+      "url": "https://ms-spares.in/wp-content/uploads/2020/01/ankit-enterprises-tvs-xl-super-chain-kit-500x500-1.png",
+      "complete":false
+    },
+    {
+      "id": 16,
+      "name": "Tail Lamp",
+      "url": "https://res.cloudinary.com/safexbikes-com/image/upload/f_auto,q_auto,w_321/images/Back%20Light%20Glass/BACKLIGHT_SHINE.jpg",
+      "complete":false
+    }
+  ]
+}
